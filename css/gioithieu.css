@@ -1,0 +1,70 @@
+.title{
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(247, 238, 210) ;
+    text-align: center;
+    font-size: 85px;
+    background-color: palevioletred;
+ }
+ .introduce{
+     padding-left: 150px;
+     padding-right: 150px;
+ }
+ .introduce h1{
+    color: palevioletred;
+    text-align:left;
+    font-size: 40px;
+    padding-top: 50px;
+    border-bottom: 1px solid pink;
+ }
+ .introduce p{
+     color: black;
+     text-align:left;
+     font-size: 20px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+ }
+ .member{
+     overflow: auto;
+     padding-left: 150px;
+     padding-right: 150px;
+ }
+ .member h1{
+     color:palevioletred;
+     text-align:left;
+     font-size: 40px;
+     border-bottom: 1px solid pink;
+ }
+ .member img {
+     float :left;
+     width:200px;
+     height: 200px;
+ }
+ .member card-group{
+     display: flex;
+ }
+ .card-group{
+ 
+     padding-top: 20px;
+     padding-bottom: 20px;
+ }
+ .card img{
+     width: 100%;
+     height: 100%;
+     object-fit: contain;
+ }
+ .thank{
+     padding-left: 150px;
+     padding-right: 150px;
+ }
+ .thank h1{
+    color: palevioletred;
+    text-align:left;
+    font-size: 40px;
+    padding-top: 50px;
+    border-bottom: 1px solid pink;
+ }
+ .thank p{
+     color: black;
+     text-align:left;
+     font-size: 20px;
+ }
